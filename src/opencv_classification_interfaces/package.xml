@@ -3,7 +3,7 @@
 <package format="3">
   <name>opencv_classification_interfaces</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>srv and msg for opencv_classification</description>
   <maintainer email="pkangwei@outlook.com">kang</maintainer>
   <license>TODO: License declaration</license>
 

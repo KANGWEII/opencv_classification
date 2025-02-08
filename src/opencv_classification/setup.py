@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='kang',
+    maintainer='Kang Wei',
     maintainer_email='pkangwei@outlook.com',
-    description='TODO: Package description',
+    description='Colour and shape classification sample demo using opencv with ROS',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
